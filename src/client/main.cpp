@@ -31,7 +31,7 @@ int main() {
     }
 
     // Send the client's name to the server
-    const char* name = "User";
+    const char* name = "User1";
     send(clientSocket, name, strlen(name), 0);
 
     // Main loop
