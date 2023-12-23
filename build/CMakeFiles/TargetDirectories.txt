@@ -1,0 +1,4 @@
+C:/Users/Gregory/Desktop/altweb/build/CMakeFiles/Server.dir
+C:/Users/Gregory/Desktop/altweb/build/CMakeFiles/Client.dir
+C:/Users/Gregory/Desktop/altweb/build/CMakeFiles/ALL_BUILD.dir
+C:/Users/Gregory/Desktop/altweb/build/CMakeFiles/ZERO_CHECK.dir
